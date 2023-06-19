@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "side.html",
-    "href": "side.html",
-    "title": "Projects and sidenotes",
-    "section": "",
-    "text": "Paperplanes  \nI am a co(n)founder of this small beauty-spreading project. \nPaperplanes is a social media channel sharing hidden, beautiful contents, each matched with an open question.\nIt helped me improve project management and team building skills, as well as the ability to fit creativity into deadlines.\n\n\n\nJodie  \nMusic is my way to blow off steam.\nI enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out next autumn under the name Jodie.  \nProbably the happiest project of my life so far!"
-  },
-  {
     "objectID": "visuals.html",
     "href": "visuals.html",
     "title": "Data-viz projects",
@@ -61,5 +54,12 @@
     "title": "Curriculum Vitae",
     "section": "Publications  ",
     "text": "Publications  \nSansone, Emanuele et al. (2023). The Effect of the Immunization Schedule and Antibody Levels (Anti-S) on the Risk of SARS-CoV-2 Infection in a Large Cohort of Healthcare Workers in Northern Italy. Vaccines, 11, 4, 746.\nCollatuzzo, Giulia et al. (2023). Temporal trends of COVID-19 antibodies in vaccinated healthcare workers undergoing repeated serological sampling: An individual-level analysis within 13 months in the ORCHESTRA cohort. Frontiers in immunology, 13, 1079884.\nCollatuzzo, Giulia et al. (2022). Determinants of Anti-S Immune Response at 9 Months after COVID-19 Vaccination in a Multicentric European Cohort of Healthcare Workers-ORCHESTRA Project. Viruses, 14, 12 2657.\nCollatuzzo, Giulia et al. (2022). Effectiveness of prevention of SARS-CoV-2 transmission among unvaccinated Italian healthcare workers. La Medicina Del Lavoro, 113, 6.\nCollatuzzo, Giulia et al. (2022). Determinants of anti-S immune response at 6 months after COVID-19 vaccination in a multicentric European cohort of healthcare workers - ORCHESTRA project. Frontiers in immunology, 13, 986085.\nPorru, Stefano et al. (2022). SARS-CoV-2 Breakthrough Infections: Incidence and Risk Factors in a Large European Multicentric Cohort of Health Workers. Vaccines, 10(8), 1193."
+  },
+  {
+    "objectID": "side.html",
+    "href": "side.html",
+    "title": "Projects and sidenotes",
+    "section": "",
+    "text": "Paperplanes  \nI am a co(n)founder of this small beauty-spreading project. \nPaperplanes is a social media channel sharing hidden, beautiful contents, each matched with an open question.\nIt helped me improve project management and team building skills, as well as the ability to fit creativity into deadlines.\n\n\n\nRugla  \nMusic is my way to blow off steam.\nI enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out next autumn under the name Rugla.  \nProbably the happiest project of my life so far!"
   }
 ]
