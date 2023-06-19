@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "side.html",
+    "href": "side.html",
+    "title": "Projects and sidenotes",
+    "section": "",
+    "text": "Paperplanes  \nI am a co(n)founder of this small beauty-spreading project. \nPaperplanes is a social media channel sharing hidden, beautiful contents, each matched with an open question.\nIt helped me improve project management and team building skills, as well as the ability to fit creativity into deadlines.\n\n\n\nJodie  \nMusic is my way to blow off steam.\nI enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out next autumn under the name Jodie.  \nProbably the happiest project of my life so far!"
+  },
+  {
+    "objectID": "visuals.html",
+    "href": "visuals.html",
+    "title": "Data-viz projects",
+    "section": "",
+    "text": "A one-year long talk\nDecember 2022\nOutline: sometimes, it is fun to look back when the end comes. A one-year-long talk is a short ride in the longest WhatsApp talk I had over the 2022. \nTools: Python (cleaning, wrangling), R (visualization). \nSource code  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nFIFA World Cups\nJuly 2022\nOutline: first D3 project. An exploration of participants and storylines of FIFA World Cups over the history. \nTools: Observable, D3. \nSource code  \n\n\n \n\n\n#tidytuesday\nMarch-April 2022\nOutline: some submissions to Tidy Tuesday - project providing a safe and supportive forum for individuals to practice their wrangling and data visualization skills in th R ecosystem. \nTools: R. \nSource code"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Giorgia Ditano",
+    "section": "",
+    "text": "Hello, this is Giorgia.\nI am a research fellow (statistician) at University of Bologna (Italy).\nI am a methodic and thoughtful person: precision and committment are my assets.  \nI firmly believe in the power of data to draw a reliable map for any creation process."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "University of Bologna - DIMEC / Bologna, Italy\nSeptember 2021 - Present\nStatistician for the EU-funded research project ORCHESTRA, designed to establish an international large-scale cohort to use as ground of research to improve the prevention and treatment of COVID-19.  \n[Area of competence: WP5, healthcare workers cohort.]"
+  },
+  {
+    "objectID": "cv.html#education-fa-solid-school",
+    "href": "cv.html#education-fa-solid-school",
+    "title": "Curriculum Vitae",
+    "section": "Education  ",
+    "text": "Education  \n\nMSc Statistical Sciences (curriculum: Data Science)\nUniversity of Bologna / Bologna, Italy\nSeptember 2018 - March 2021\nGraduated with 110 / 110 cum laude\nDissertation in Natural Language Processing: “Variational Sequence Labeling for Part-of-Speech tagging: a BERT-based approach” \nIncreased experience with deep learning models (VAEs, DNNs), language models (BERT) and Python coding.\n\n\nErasmus+ Study semester\nKøbenhavns Universitet / Copenhagen, Denmark\nJanuary 2020 - July 2020\nGained experience with ML and programming, Copenhagen, Denmark improved (weekly) deadlines management.\n\n\nBSc Economics and Management\nUniversity of Trento / Trento, Italy\nSeptember 2015 - July 2018\nGraduated with 110 / 110 cum laude\nDissertation (language: IT) in Inference and Probability: “Pilot statistical study on the perception of the immigration phenomenon in the municipality of Trento”"
+  },
+  {
+    "objectID": "cv.html#computer-skills-fa-solid-floppy-disk",
+    "href": "cv.html#computer-skills-fa-solid-floppy-disk",
+    "title": "Curriculum Vitae",
+    "section": "Computer skills  ",
+    "text": "Computer skills  \n\n\n\n\n\n\n\nProgramming\nElse\n\n\n\n\nData analysis and statistical modeling with STATA.\nData wrangling and visualization in R (Tidyverse).\nScientific computing and machine learning fundamentals in Python (Numpy, Scikit-Learn, PyTorch).\nBasics of web native data visualizations with D3 and Observable.\nAcademic foundations of SQL and C++.\nGit / GitHub.\nCollaborative work with Slack and Trello.\nReporting with Quarto.\nOS: MacOS, Windows, Linux (basics)."
+  },
+  {
+    "objectID": "cv.html#languages-fa-solid-earth-europe",
+    "href": "cv.html#languages-fa-solid-earth-europe",
+    "title": "Curriculum Vitae",
+    "section": "Languages  ",
+    "text": "Languages  \nItalian (mother tongue) - English (C1, fluent)"
+  },
+  {
+    "objectID": "cv.html#publications-fa-solid-newspaper",
+    "href": "cv.html#publications-fa-solid-newspaper",
+    "title": "Curriculum Vitae",
+    "section": "Publications  ",
+    "text": "Publications  \nSansone, Emanuele et al. (2023). The Effect of the Immunization Schedule and Antibody Levels (Anti-S) on the Risk of SARS-CoV-2 Infection in a Large Cohort of Healthcare Workers in Northern Italy. Vaccines, 11, 4, 746.\nCollatuzzo, Giulia et al. (2023). Temporal trends of COVID-19 antibodies in vaccinated healthcare workers undergoing repeated serological sampling: An individual-level analysis within 13 months in the ORCHESTRA cohort. Frontiers in immunology, 13, 1079884.\nCollatuzzo, Giulia et al. (2022). Determinants of Anti-S Immune Response at 9 Months after COVID-19 Vaccination in a Multicentric European Cohort of Healthcare Workers-ORCHESTRA Project. Viruses, 14, 12 2657.\nCollatuzzo, Giulia et al. (2022). Effectiveness of prevention of SARS-CoV-2 transmission among unvaccinated Italian healthcare workers. La Medicina Del Lavoro, 113, 6.\nCollatuzzo, Giulia et al. (2022). Determinants of anti-S immune response at 6 months after COVID-19 vaccination in a multicentric European cohort of healthcare workers - ORCHESTRA project. Frontiers in immunology, 13, 986085.\nPorru, Stefano et al. (2022). SARS-CoV-2 Breakthrough Infections: Incidence and Risk Factors in a Large European Multicentric Cohort of Health Workers. Vaccines, 10(8), 1193."
+  }
+]
