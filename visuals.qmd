@@ -1,0 +1,54 @@
+---
+title: "Data-viz projects"
+toc: true
+---
+
+### A one-year long talk
+*December 2022*
+
+`Outline`: sometimes, it is fun to look back when the end comes. *A one-year-long talk* is a short ride in the longest WhatsApp talk I had over the 2022.\   
+`Tools`: Python (cleaning, wrangling), R (visualization).\   
+`Source code`&nbsp; [{{< fa brands github >}}](https://github.com/giorgia-dit/year-long-talk)
+
+::: {layout="[[100], [50,50]]"}
+![](viz/bubbleplot_s.png)
+
+![](viz/scatterplot_s.png)
+
+![](viz/barplot_s.png)
+
+:::
+
+&nbsp;
+
+### FIFA World Cups
+*July 2022*
+
+`Outline`: first D3 project. An exploration of participants and storylines of FIFA World Cups over the history.\    
+`Tools`: Observable, D3.\   
+`Source code`&nbsp; [{{< fa solid arrow-up-right-from-square >}}](https://observablehq.com/@giorgia-dit/fifa-world-cups-1930-2018)
+
+<iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/@giorgia-dit/fifa-world-cups-1930-2018@2018?cell=*"></iframe>
+
+&nbsp;
+
+### \#tidytuesday
+*March-April 2022*   
+
+`Outline`: some submissions to [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) - project providing a safe and supportive forum for individuals to practice their wrangling and data visualization skills in th R ecosystem.\   
+`Tools`: R.\   
+`Source code`&nbsp; [{{< fa brands github >}}](https://github.com/giorgia-dit/tidytuesday)
+
+::: {layout="[[100], [50,50], [50,50]]"}
+![](viz/w12_plot1.png)
+
+![](viz/w12_plot2.png)
+
+![](viz/w12_plot3.png)
+
+![](viz/w10_plot2.png)
+
+![](viz/w13_plot2.png)
+
+:::

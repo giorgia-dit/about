@@ -1,0 +1,83 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Last updated: May, 2023"
+toc: true
+---
+
+## Work experiences  {{< fa solid building >}}
+
+#### Research fellow (Statistician)
+
+[*University of Bologna - DIMEC*](https://dimec.unibo.it/it/index.html) / *Bologna, Italy*\
+**September 2021 - Present**
+
+Statistician for the EU-funded research project [ORCHESTRA](https://orchestra-cohort.eu/), designed to establish an international large-scale cohort to use as ground of research to improve the prevention and treatment of COVID-19.  \
+\[Area of competence: WP5, healthcare workers cohort.\]
+
+&nbsp;
+
+## Education  {{< fa solid school >}}
+
+#### MSc Statistical Sciences (curriculum: Data Science)
+
+*University of Bologna* / *Bologna, Italy*\
+**September 2018 - March 2021**
+
+Graduated with 110 / 110 cum laude\
+Dissertation in Natural Language Processing: "*Variational Sequence Labeling for Part-of-Speech tagging: a BERT-based approach*" [{{< fa brands github >}}](https://github.com/giorgia-dit/vsl)\
+Increased experience with deep learning models (VAEs, DNNs), language models (BERT) and Python coding.
+
+#### Erasmus+ Study semester
+
+*Københavns Universitet* / *Copenhagen, Denmark*\
+**January 2020 - July 2020**
+
+Gained experience with ML and programming, Copenhagen, Denmark improved (weekly) deadlines management.
+
+#### BSc Economics and Management
+
+*University of Trento* / *Trento, Italy*\
+**September 2015 - July 2018**
+
+Graduated with 110 / 110 cum laude\
+Dissertation (language: IT) in Inference and Probability: "*Pilot statistical study on the perception of the immigration phenomenon in the municipality of Trento*"
+
+&nbsp;
+
+## Computer skills  {{< fa solid floppy-disk >}}
+
++------------------------------------------------------------------------------------------------------+---------------------------------------------------+
+| Programming                                                                                          | Else                                              |
++======================================================================================================+===================================================+
+| Data analysis and statistical modeling with **STATA**.                                               | **Git** / **GitHub**.                             |
+|                                                                                                      |                                                   |
+| Data wrangling and visualization in **R** (Tidyverse).                                               | Collaborative work with **Slack** and **Trello**. |
+|                                                                                                      |                                                   |
+| Scientific computing and machine learning fundamentals in **Python** (Numpy, Scikit-Learn, PyTorch). | Reporting with **Quarto**.                        |
+|                                                                                                      |                                                   |
+| Basics of web native data visualizations with **D3** and **Observable**.                             | **OS**: MacOS, Windows, Linux (basics).           |
+|                                                                                                      |                                                   |
+| Academic foundations of **SQL** and **C++**.                                                         |                                                   |
++------------------------------------------------------------------------------------------------------+---------------------------------------------------+
+
+&nbsp;
+
+## Languages  {{< fa solid earth-europe >}}
+
+Italian (mother tongue) - English (C1, fluent)
+
+&nbsp;
+
+## Publications  {{< fa solid newspaper >}}
+
+Sansone, Emanuele et al. (2023). [The Effect of the Immunization Schedule and Antibody Levels (Anti-S) on the Risk of SARS-CoV-2 Infection in a Large Cohort of Healthcare Workers in Northern Italy.](https://pubmed.ncbi.nlm.nih.gov/37112658/) *Vaccines*, 11, 4, 746.
+
+Collatuzzo, Giulia et al. (2023). [Temporal trends of COVID-19 antibodies in vaccinated healthcare workers undergoing repeated serological sampling: An individual-level analysis within 13 months in the ORCHESTRA cohort.](https://pubmed.ncbi.nlm.nih.gov/36713452/) *Frontiers in immunology*, 13, 1079884.
+
+Collatuzzo, Giulia et al. (2022). [Determinants of Anti-S Immune Response at 9 Months after COVID-19 Vaccination in a Multicentric European Cohort of Healthcare Workers-ORCHESTRA Project.](https://pubmed.ncbi.nlm.nih.gov/36560660/) *Viruses*, 14, 12 2657.
+
+Collatuzzo, Giulia et al. (2022). [Effectiveness of prevention of SARS-CoV-2 transmission among unvaccinated Italian healthcare workers.](https://pubmed.ncbi.nlm.nih.gov/36475504/) *La Medicina Del Lavoro*, 113, 6.
+
+Collatuzzo, Giulia et al. (2022). [Determinants of anti-S immune response at 6 months after COVID-19 vaccination in a multicentric European cohort of healthcare workers - ORCHESTRA project.](https://pubmed.ncbi.nlm.nih.gov/36248889/) *Frontiers in immunology*, 13, 986085.
+
+Porru, Stefano et al. (2022). [SARS-CoV-2 Breakthrough Infections: Incidence and Risk Factors in a Large European Multicentric Cohort of Health Workers.](https://pubmed.ncbi.nlm.nih.gov/36016081/) *Vaccines*, 10(8), 1193.

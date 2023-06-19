@@ -1,0 +1,24 @@
+---
+title: "Projects and sidenotes"
+format:
+    html:
+        code-fold: true
+toc: true
+---
+
+
+### Paperplanes &nbsp;{{< fa solid paper-plane >}}
+I am a co(n)founder of this small beauty-spreading project.\    
+[Paperplanes](https://t.me/via_paperplanes) is a social media channel sharing hidden, beautiful contents, each matched with an open question.
+
+It helped me improve project management and team building skills, as well as the ability to fit creativity into deadlines.
+
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="via_paperplanes/82" data-width="100%"></script>
+
+### Jodie &nbsp;{{< fa solid compact-disc >}}
+Music is my way to blow off steam.
+
+I enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out next autumn under the name *Jodie*. \   
+Probably the happiest project of my life so far!
+
+![](concert.png){width=40% fig-align="center"}
