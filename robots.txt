@@ -1,1 +1,1 @@
-Sitemap: https://giorgia-dit.github.io/about/sitemap.xml
+Sitemap: https://github.com/giorgia-dit/about/sitemap.xml
