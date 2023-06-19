@@ -7,7 +7,7 @@ website:
     search: true
     contents:
       - text: "About"
-        file: about.qmd
+        file: index.qmd
       - text: "CV"
         file: cv.qmd
       - section: "Projects"
