@@ -406,3 +406,4 @@ FodyWeavers.xsd
 
 # venv
 /env/
+/.luarc.json
