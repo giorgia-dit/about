@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Last updated: May, 2023"
+subtitle: "Last updated: June, 2023"
 toc: true
 ---
 
