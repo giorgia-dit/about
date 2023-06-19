@@ -1,6 +1,6 @@
 ---
 title: "Giorgia Ditano"
-# page-layout: full
+page-layout: full
 about:
   template: jolla
   image: "train.jpg" 
