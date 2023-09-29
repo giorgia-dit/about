@@ -70,7 +70,11 @@ Italian (mother tongue) - English (C1, fluent)
 
 ## Publications  {{< fa solid newspaper >}}
 
-Sansone, Emanuele et al. (2023). [The Effect of the Immunization Schedule and Antibody Levels (Anti-S) on the Risk of SARS-CoV-2 Infection in a Large Cohort of Healthcare Workers in Northern Italy.](https://pubmed.ncbi.nlm.nih.gov/37112658/) *Vaccines*, 11, 4, 746.
+Violán, Concepción et al. (2023). [Multimorbidity and Serological Response to SARS-CoV-2 Nine Months after 1st Vaccine Dose: European Cohort of Healthcare Workers-Orchestra Project.](https://pubmed.ncbi.nlm.nih.gov/37631908/) *Vaccines*, 11, 8, 1340.
+
+Mansour, Ihab et al. (2023). [Factors Associated with SARS-CoV-2 Infection before Vaccination among European Health Care Workers.](https://pubmed.ncbi.nlm.nih.gov/37309880/) *La Medicina del lavoro*, 114, 3.
+
+Sansone, Emanuele et al. (2023). [The Effect of the Immunization Schedule and Antibody Levels (Anti-S) on the Risk of SARS-CoV-2 Infection in a Large Cohort of Healthcare Workers in Northern Italy.](https://pubmed.ncbi.nlm.nih.gov/37122701/) *Vaccines*, 11, 4, 746.
 
 Collatuzzo, Giulia et al. (2023). [Temporal trends of COVID-19 antibodies in vaccinated healthcare workers undergoing repeated serological sampling: An individual-level analysis within 13 months in the ORCHESTRA cohort.](https://pubmed.ncbi.nlm.nih.gov/36713452/) *Frontiers in immunology*, 13, 1079884.
 
