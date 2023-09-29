@@ -15,7 +15,7 @@ It helped me improve project management and team building skills, as well as the
 
 <script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="via_paperplanes/82" data-width="100%"></script>
 
-### Rugla &nbsp;{{< fa solid compact-disc >}}
+### jodie &nbsp;{{< fa solid compact-disc >}}
 Music is my way to blow off steam.
 
 I enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out in October 2023 under the name *jodie*. \   

@@ -6,9 +6,6 @@ about:
   image: "train.jpg" 
   image-width: 12em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/giorgiadit_
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/giorgia-ditano/
@@ -22,7 +19,7 @@ about:
 
 Hello, this is Giorgia.
 
-I am a research fellow (statistician) at University of Bologna (Italy). 
+I am a research fellow statistician at University of Bologna (Italy). 
 
 I am a methodic and thoughtful person: precision and committment are my assets. \   
 I firmly believe in the power of data to draw a reliable map for any creation process.
