@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "visuals.html",
-    "href": "visuals.html",
-    "title": "Data-viz projects",
+    "objectID": "side.html",
+    "href": "side.html",
+    "title": "Projects and sidenotes",
     "section": "",
-    "text": "A one-year long talk\nDecember 2022\nOutline: sometimes, it is fun to look back when the end comes. A one-year-long talk is a short ride in the longest WhatsApp talk I had over the 2022. \nTools: Python (cleaning, wrangling), R (visualization). \nSource code  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nFIFA World Cups\nJuly 2022\nOutline: first D3 project. An exploration of participants and storylines of FIFA World Cups over the history. \nTools: Observable, D3. \nSource code  \n\n\n \n\n\n#tidytuesday\nMarch-April 2022\nOutline: some submissions to Tidy Tuesday - project providing a safe and supportive forum for individuals to practice their wrangling and data visualization skills in th R ecosystem. \nTools: R. \nSource code"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Giorgia Ditano",
-    "section": "",
-    "text": "Hello, this is Giorgia.\nI am a research fellow (statistician) at University of Bologna (Italy).\nI am a methodic and thoughtful person: precision and committment are my assets.  \nI firmly believe in the power of data to draw a reliable map for any creation process."
+    "text": "Paperplanes  \nI am a co(n)founder of this small beauty-spreading project. \nPaperplanes is a social media channel sharing hidden, beautiful contents, each matched with an open question.\nIt helped me improve project management and team building skills, as well as the ability to fit creativity into deadlines.\n\n\n\nRugla  \nMusic is my way to blow off steam.\nI enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out in October 2023 under the name jodie.  \nProbably the happiest project of my life so far!"
   },
   {
     "objectID": "cv.html",
@@ -53,13 +46,20 @@
     "href": "cv.html#publications-fa-solid-newspaper",
     "title": "Curriculum Vitae",
     "section": "Publications  ",
-    "text": "Publications  \nSansone, Emanuele et al. (2023). The Effect of the Immunization Schedule and Antibody Levels (Anti-S) on the Risk of SARS-CoV-2 Infection in a Large Cohort of Healthcare Workers in Northern Italy. Vaccines, 11, 4, 746.\nCollatuzzo, Giulia et al. (2023). Temporal trends of COVID-19 antibodies in vaccinated healthcare workers undergoing repeated serological sampling: An individual-level analysis within 13 months in the ORCHESTRA cohort. Frontiers in immunology, 13, 1079884.\nCollatuzzo, Giulia et al. (2022). Determinants of Anti-S Immune Response at 9 Months after COVID-19 Vaccination in a Multicentric European Cohort of Healthcare Workers-ORCHESTRA Project. Viruses, 14, 12 2657.\nCollatuzzo, Giulia et al. (2022). Effectiveness of prevention of SARS-CoV-2 transmission among unvaccinated Italian healthcare workers. La Medicina Del Lavoro, 113, 6.\nCollatuzzo, Giulia et al. (2022). Determinants of anti-S immune response at 6 months after COVID-19 vaccination in a multicentric European cohort of healthcare workers - ORCHESTRA project. Frontiers in immunology, 13, 986085.\nPorru, Stefano et al. (2022). SARS-CoV-2 Breakthrough Infections: Incidence and Risk Factors in a Large European Multicentric Cohort of Health Workers. Vaccines, 10(8), 1193."
+    "text": "Publications  \nViolán, Concepción et al. (2023). Multimorbidity and Serological Response to SARS-CoV-2 Nine Months after 1st Vaccine Dose: European Cohort of Healthcare Workers-Orchestra Project. Vaccines, 11, 8, 1340.\nMansour, Ihab et al. (2023). Factors Associated with SARS-CoV-2 Infection before Vaccination among European Health Care Workers. La Medicina del lavoro, 114, 3.\nSansone, Emanuele et al. (2023). The Effect of the Immunization Schedule and Antibody Levels (Anti-S) on the Risk of SARS-CoV-2 Infection in a Large Cohort of Healthcare Workers in Northern Italy. Vaccines, 11, 4, 746.\nCollatuzzo, Giulia et al. (2023). Temporal trends of COVID-19 antibodies in vaccinated healthcare workers undergoing repeated serological sampling: An individual-level analysis within 13 months in the ORCHESTRA cohort. Frontiers in immunology, 13, 1079884.\nCollatuzzo, Giulia et al. (2022). Determinants of Anti-S Immune Response at 9 Months after COVID-19 Vaccination in a Multicentric European Cohort of Healthcare Workers-ORCHESTRA Project. Viruses, 14, 12 2657.\nCollatuzzo, Giulia et al. (2022). Effectiveness of prevention of SARS-CoV-2 transmission among unvaccinated Italian healthcare workers. La Medicina Del Lavoro, 113, 6.\nCollatuzzo, Giulia et al. (2022). Determinants of anti-S immune response at 6 months after COVID-19 vaccination in a multicentric European cohort of healthcare workers - ORCHESTRA project. Frontiers in immunology, 13, 986085.\nPorru, Stefano et al. (2022). SARS-CoV-2 Breakthrough Infections: Incidence and Risk Factors in a Large European Multicentric Cohort of Health Workers. Vaccines, 10(8), 1193."
   },
   {
-    "objectID": "side.html",
-    "href": "side.html",
-    "title": "Projects and sidenotes",
+    "objectID": "visuals.html",
+    "href": "visuals.html",
+    "title": "Data-viz projects",
     "section": "",
-    "text": "Paperplanes  \nI am a co(n)founder of this small beauty-spreading project. \nPaperplanes is a social media channel sharing hidden, beautiful contents, each matched with an open question.\nIt helped me improve project management and team building skills, as well as the ability to fit creativity into deadlines.\n\n\n\nRugla  \nMusic is my way to blow off steam.\nI enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out next autumn under the name Rugla.  \nProbably the happiest project of my life so far!"
+    "text": "A one-year long talk\nDecember 2022\nOutline: sometimes, it is fun to look back when the end comes. A one-year-long talk is a short ride in the longest WhatsApp talk I had over the 2022. \nTools: Python (cleaning, wrangling), R (visualization). \nSource code  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nFIFA World Cups\nJuly 2022\nOutline: first D3 project. An exploration of participants and storylines of FIFA World Cups over the history. \nTools: Observable, D3. \nSource code  \n\n\n \n\n\n#tidytuesday\nMarch-April 2022\nOutline: some submissions to Tidy Tuesday - project providing a safe and supportive forum for individuals to practice their wrangling and data visualization skills in th R ecosystem. \nTools: R. \nSource code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Giorgia Ditano",
+    "section": "",
+    "text": "Hello, this is Giorgia.\nI am a research fellow (statistician) at University of Bologna (Italy).\nI am a methodic and thoughtful person: precision and committment are my assets.  \nI firmly believe in the power of data to draw a reliable map for any creation process."
   }
 ]
