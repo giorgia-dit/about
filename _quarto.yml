@@ -12,9 +12,9 @@ website:
         file: cv.qmd
       - section: "Projects"
         contents:
-        - text: "Work-related"
+        - text: "Visualizations"
           file: visuals.qmd
-        - text: "Work-aside"
+        - text: "Others"
           file: side.qmd
 
 format:

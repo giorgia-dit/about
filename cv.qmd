@@ -1,15 +1,23 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Last updated: September, 2023"
+subtitle: "Last updated: September, 2024"
 toc: true
 ---
 
 ## Work experiences  {{< fa solid building >}}
 
+#### Junior Developer
+
+[*Officinae Bio*](https://officinae.bio/) / *Venice, Italy*\
+**April 2024 - Present**
+
+Junior developer on innovative biotech projects, in charge of both data science and web developing tasks. \
+
+
 #### Research fellow (Statistician)
 
 [*University of Bologna - DIMEC*](https://dimec.unibo.it/it/index.html) / *Bologna, Italy*\
-**September 2021 - Present**
+**September 2021 - March 2024**
 
 Statistician for the EU-funded research project [ORCHESTRA](https://orchestra-cohort.eu/), designed to establish an international large-scale cohort to use as ground of research to improve the prevention and treatment of COVID-19.  \
 \[Area of competence: WP5, healthcare workers cohort.\]
@@ -46,19 +54,12 @@ Dissertation (language: IT) in Inference and Probability: "*Pilot statistical st
 
 ## Computer skills  {{< fa solid floppy-disk >}}
 
-+------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| Programming                                                                                          | Else                                              |
-+======================================================================================================+===================================================+
-| Data analysis and statistical modeling with **STATA**.                                               | **Git** / **GitHub**.                             |
-|                                                                                                      |                                                   |
-| Data wrangling and visualization in **R** (Tidyverse).                                               | Collaborative work with **Slack** and **Trello**. |
-|                                                                                                      |                                                   |
-| Scientific computing and machine learning fundamentals in **Python** (Numpy, Scikit-Learn, PyTorch). | Reporting with **Quarto**.                        |
-|                                                                                                      |                                                   |
-| Basics of web native data visualizations with **D3** and **Observable**.                             | **OS**: MacOS, Windows, Linux (basics).           |
-|                                                                                                      |                                                   |
-| Academic foundations of **SQL** and **C++**.                                                         |                                                   |
-+------------------------------------------------------------------------------------------------------+---------------------------------------------------+
+| Programming | Else |
+|---|---|
+| Data analysis and statistical modeling with **Python**, **STATA**. | **Git**  /  **GitHub** |
+| Data wrangling and visualization in **R**, **Python** (Tidyverse, Pandas, Seaborn). | Reporting with **Deepnote**, **Quarto**. |
+| Back-end (**Python-Django**, **PostgreSQL**) and front-end (**HTML**, **CSS-Bootstrap**, basics of React and JS) web development. | Collaborative work with **Google Workspace**, **Slack**, **Trello**. |
+| Basics of web native data visualizations with **D3** and **Observable**. | **OS**: MacOS, Windows, Linux (basics). |
 
 &nbsp;
 
@@ -69,6 +70,10 @@ Italian (mother tongue) - English (C1, fluent)
 &nbsp;
 
 ## Publications  {{< fa solid newspaper >}}
+
+Spiteri, Gianluca et al. (2024). [Protective role of SARS-CoV-2 anti-S IgG against breakthrough infections among European healthcare workers during pre and post-Omicron surge-ORCHESTRA project.](https://pubmed.ncbi.nlm.nih.gov/38326526/) *Infection*, 52, 4.
+
+Leomanni, Ludovica et al. (2023). [Determinants of Anti-S Immune Response at 12 Months after SARS-CoV-2 Vaccination in a Multicentric European Cohort of Healthcare Workers-ORCHESTRA Project.](https://pubmed.ncbi.nlm.nih.gov/37896931/) *Vaccines*, 11, 10, 1527.
 
 Violán, Concepción et al. (2023). [Multimorbidity and Serological Response to SARS-CoV-2 Nine Months after 1st Vaccine Dose: European Cohort of Healthcare Workers-Orchestra Project.](https://pubmed.ncbi.nlm.nih.gov/37631908/) *Vaccines*, 11, 8, 1340.
 

@@ -12,14 +12,11 @@ about:
     - icon: github
       text: Github
       href: https://www.github.com/giorgia-dit
-    - icon: arrow-up-right
-      text: Observable
-      href: https://observablehq.com/@giorgia-dit
 ---
 
 Hello, this is Giorgia.
 
-I am a research fellow statistician at University of Bologna (Italy). 
+I am a junior developer and data scientist based in Bologna (Italy). 
 
 I am a methodic and thoughtful person: precision and committment are my assets. \   
 I firmly believe in the power of data to draw a reliable map for any creation process.

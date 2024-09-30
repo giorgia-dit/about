@@ -18,7 +18,6 @@ It helped me improve project management and team building skills, as well as the
 ### jordi lou &nbsp;{{< fa solid compact-disc >}}
 Music is my way to blow off steam.
 
-I enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first release. It will be out in October 2023 under the name *jordi lou*. \   
-Probably the happiest project of my life so far!
+I enjoy both listening and playing. I used to write only for myself, but eventually I started working on my first releases, published under the name *jordi lou*. \
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1nSDSmSE8lSE5QVeyzF9dq?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
