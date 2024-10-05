@@ -69,6 +69,18 @@ Italian (mother tongue) - English (C1, fluent)
 
 &nbsp;
 
+## Courses and certifications  {{< fa solid spinner >}}
+
+**Data Visualization and Information Design: Create a Visual Model (a course by Federica Fragapane)** [*Domestika*, September 2024]
+
+**Neo4j Certified Professional** [Neo4j, September 2024]
+
+**Introduction to data engineering** [*IBM (Coursera)*, January 2024]
+
+**Foundations of User Experience (UX) Design** [*Google*, September 2023]
+
+&nbsp;
+
 ## Publications  {{< fa solid newspaper >}}
 
 Spiteri, Gianluca et al. (2024). [Protective role of SARS-CoV-2 anti-S IgG against breakthrough infections among European healthcare workers during pre and post-Omicron surge-ORCHESTRA project.](https://pubmed.ncbi.nlm.nih.gov/38326526/) *Infection*, 52, 4.

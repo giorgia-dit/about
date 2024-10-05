@@ -3,6 +3,24 @@ title: "Data-viz projects"
 toc: true
 ---
 
+### How many of us are living alone?
+*September 2024*
+
+`Outline`: a visual investigation about the rising of single-person households in 24 countries, over the period 2003-2018.
+`Tools`: Python (data wrangling only), Adobe Illustrator.\
+`Source code + complete PDF`&nbsp; [{{< fa brands github >}}](https://github.com/giorgia-dit/living-lonely)
+
+::: {layout="[[100], [60,40]]"}
+![](viz/living-lonely-bars.png)
+
+![](viz/living-lonely-detail.png)
+
+![](viz/living-lonely-legend.png)
+
+:::
+
+&nbsp;
+
 ### A one-year long talk
 *December 2022*
 
