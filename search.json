@@ -50,6 +50,16 @@
     ]
   },
   {
+    "objectID": "cv.html#courses-and-certifications",
+    "href": "cv.html#courses-and-certifications",
+    "title": "Curriculum Vitae",
+    "section": "Courses and certifications  ",
+    "text": "Courses and certifications  \nData Visualization and Information Design: Create a Visual Model (a course by Federica Fragapane) [Domestika, September 2024]\nNeo4j Certified Professional [Neo4j, September 2024]\nIntroduction to data engineering [IBM (Coursera), January 2024]\nFoundations of User Experience (UX) Design [Google, September 2023]",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
     "objectID": "cv.html#publications",
     "href": "cv.html#publications",
     "title": "Curriculum Vitae",
@@ -64,7 +74,7 @@
     "href": "visuals.html",
     "title": "Data-viz projects",
     "section": "",
-    "text": "A one-year long talk\nDecember 2022\nOutline: sometimes, it is fun to look back when the end comes. A one-year-long talk is a short ride in the longest WhatsApp talk I had over the 2022. \nTools: Python (cleaning, wrangling), R (visualization). \nSource code  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nFIFA World Cups\nJuly 2022\nOutline: first D3 project. An exploration of participants and storylines of FIFA World Cups over the history. \nTools: Observable, D3. \nSource code  \n\n\n \n\n\n#tidytuesday\nMarch-April 2022\nOutline: some submissions to Tidy Tuesday - project providing a safe and supportive forum for individuals to practice their wrangling and data visualization skills in th R ecosystem. \nTools: R. \nSource code",
+    "text": "How many of us are living alone?\nSeptember 2024\nOutline: a visual investigation about the rising of single-person households in 24 countries, over the period 2003-2018. Tools: Python (data wrangling only), Adobe Illustrator.\nSource code + complete PDF  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nA one-year long talk\nDecember 2022\nOutline: sometimes, it is fun to look back when the end comes. A one-year-long talk is a short ride in the longest WhatsApp talk I had over the 2022. \nTools: Python (cleaning, wrangling), R (visualization). \nSource code  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nFIFA World Cups\nJuly 2022\nOutline: first D3 project. An exploration of participants and storylines of FIFA World Cups over the history. \nTools: Observable, D3. \nSource code  \n\n\n \n\n\n#tidytuesday\nMarch-April 2022\nOutline: some submissions to Tidy Tuesday - project providing a safe and supportive forum for individuals to practice their wrangling and data visualization skills in th R ecosystem. \nTools: R. \nSource code",
     "crumbs": [
       "Projects",
       "Visualizations"
