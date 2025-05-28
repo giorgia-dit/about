@@ -6,6 +6,28 @@ format:
 toc: true
 ---
 
+### Wonka: the sweetiest Christmas game &nbsp;{{< fa solid candy-cane >}}
+*December 2024*
+
+For Christmas, I created a surprise game for my friends, inspired by the classic golden ticket from *Charlie and the Chocolate Factory*. I mailed each of them a chocolate bar — but only one lucky bar had a golden ticket hidden inside.\
+To add some interactivity, I built a little website where they could track their chocolate deliveries, mark when they’d received them, and ultimately find out who found the golden ticket.\
+
+`Tools`: Python (Django), HTML, CSS (Bootstrap), Adobe Illustrator.\
+`Source code`&nbsp; [{{< fa brands github >}}](https://github.com/giorgia-dit/friendly-game)
+
+::: {layout="[[25,25,25,25], [100]]"}
+![](other/IMG_6038.jpeg){width=300}
+
+![](other/IMG_6039.jpeg){width=300}
+
+![](other/IMG_6036.jpeg){width=300}
+
+![](other/IMG_6037.jpeg){width=300}
+
+![](other/AE04EE46-D0F8-411B-833D-766A7F88BB33.MP4){fig-align="center" width=400}
+:::
+
+&nbsp;
 
 ### Paperplanes &nbsp;{{< fa solid paper-plane >}}
 I am a co(n)founder of this small beauty-spreading project.\    
@@ -14,6 +36,8 @@ I am a co(n)founder of this small beauty-spreading project.\
 It helped me improve project management and team building skills, as well as the ability to fit creativity into deadlines.
 
 <script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="via_paperplanes/82" data-width="100%"></script>
+
+&nbsp;
 
 ### jordi lou &nbsp;{{< fa solid compact-disc >}}
 Music is my way to blow off steam.

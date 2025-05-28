@@ -6,12 +6,12 @@ toc: true
 
 ## Work experiences  {{< fa solid building >}}
 
-#### Junior Developer
+#### Senior associate scientist and developer
 
 [*Officinae Bio*](https://officinae.bio/) / *Venice, Italy*\
 **April 2024 - Present**
 
-Junior developer on innovative biotech projects, in charge of both data science and web developing tasks. \
+Developer working on innovative biotech projects, in charge of both data science and web developing tasks. \
 
 
 #### Research fellow (Statistician)

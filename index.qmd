@@ -16,7 +16,7 @@ about:
 
 Hello, this is Giorgia.
 
-I am a junior developer and data scientist based in Bologna (Italy). 
+I am a developer and data scientist based in Bologna (Italy). 
 
 I am a methodic and thoughtful person: precision and committment are my assets. \   
 I firmly believe in the power of data to draw a reliable map for any creation process.
